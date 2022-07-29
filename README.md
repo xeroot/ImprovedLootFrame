@@ -8,6 +8,6 @@ Example:
 
 How to Install it:
 
-- [Download the addon](https://github.com/xeroot/ImprovedLootFrame/archive/refs/tags/1.0.0.zip)
+- [Download the addon](https://github.com/xeroot/ImprovedLootFrame/releases/download/1.0.0/ImprovedLootFrame.zip)
 - Paste it in WowFolder/Interface/addOns
 - Enjoy!
