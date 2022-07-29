@@ -1,6 +1,7 @@
 # ImprovedLootFrame
 ImprovedLootFrame for WOTLK
-This is compatible version for WOTLK to use the addon ImprovedLootFrame
+
+This is a compatible version of ImprovedLootFrame for WOTLK. Thanks to [KPack](https://github.com/bkader/KPack) and [ascott18](https://github.com/ascott18/ImprovedLootFrame)
 
 Example:
 
