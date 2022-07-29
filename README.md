@@ -1,5 +1,5 @@
 # ImprovedLootFrame
-ImprovedLootFrame for WOTLK
+ImprovedLootFrame for WOTLK. This addon allows you to see all items when looting. No need to scroll down anymore.
 
 This is a compatible version of ImprovedLootFrame for WOTLK. Thanks to [KPack](https://github.com/bkader/KPack) and [ascott18](https://github.com/ascott18/ImprovedLootFrame)
 
