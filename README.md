@@ -1,5 +1,6 @@
 # ImprovedLootFrame
 ImprovedLootFrame for WOTLK
+
 This is compatible version for WOTLK to use the addon ImprovedLootFrame
 
 Example:
