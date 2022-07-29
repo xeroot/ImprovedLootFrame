@@ -1,0 +1,2 @@
+# ImprovedLootFrame
+ImprovedLootFrame for WOTLK
