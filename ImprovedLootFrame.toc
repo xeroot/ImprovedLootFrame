@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: Improved Loot Frame
+## Version: 1.0.0
+## Author: Xer0 alias Megabyte
+## Notes: Expands the loot frame to fit all items onto one page for WOTLK.
+
+ImprovedLootFrame.lua
